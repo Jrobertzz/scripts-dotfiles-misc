@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-scale '/home/jacob/Downloads/861798.jpg' 
